@@ -1,20 +1,22 @@
-# staff-manager
+# Jump Start Vue.js - Chapter 8 Demo
+
+This example builds upon everything covered in the book. It uses the concepts learned to create a Nuxt.js app with a Vuex store and authentication that fetches data from a remote API and displays it in a custom component, linking to a detail page for each item.
 
 ## Build Setup
 
-```bash
+``` bash
 # install dependencies
-$ yarn install
+$ npm install
 
 # serve with hot reload at localhost:3000
-$ yarn dev
+$ npm run dev
 
 # build for production and launch server
-$ yarn build
-$ yarn start
+$ npm run build
+$ npm start
 
 # generate static project
-$ yarn generate
+$ npm run generate
 ```
 
-For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
+For detailed explanation on how things work, checkout [Nuxt.js docs](https://nuxtjs.org).
